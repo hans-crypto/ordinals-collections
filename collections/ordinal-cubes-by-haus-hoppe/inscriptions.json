@@ -432,9 +432,45 @@
     }
   },
   {
-    "id": "58c4e6cc6a0dadb84b24d00f76739d2e76b3948fedb8f856337d6db41fa5ba6ci0",
+    "id": "0e088261e8d3f78c4d500d2a5d760891f7361c9828ab7f0820f36ad611a0c97ai0",
     "meta": {
       "name": "Ordinal Cube #12",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "58c4e6cc6a0dadb84b24d00f76739d2e76b3948fedb8f856337d6db41fa5ba6ci0",
+    "meta": {
+      "name": "Ordinal Cube #13",
       "attributes": [
         {
           "trait_type": "Side 1",
@@ -470,7 +506,7 @@
   {
     "id": "c34531886b53ff0d4a2ce85dba204b945e8d00ebdf4971156144c85b837bbf39i0",
     "meta": {
-      "name": "Ordinal Cube #13",
+      "name": "Ordinal Cube #14",
       "attributes": [
         {
           "trait_type": "Side 1",
@@ -506,67 +542,31 @@
   {
     "id": "cb0823a6533602f240396867fbc203db6ead1e6e5ae73c0013b28d86df178cdci0",
     "meta": {
-      "name": "Ordinal Cube #14",
-      "attributes": [
-        {
-          "trait_type": "Side 1",
-          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
-        },
-        {
-          "trait_type": "Side 2",
-          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
-        },
-        {
-          "trait_type": "Side 3",
-          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
-        },
-        {
-          "trait_type": "Side 4",
-          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
-        },
-        {
-          "trait_type": "Side 5",
-          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
-        },
-        {
-          "trait_type": "Side 6",
-          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
-        },
-        {
-          "trait_type": "Version",
-          "value": "v3"
-        }
-      ]
-    }
-  },
-  {
-    "id": "0e088261e8d3f78c4d500d2a5d760891f7361c9828ab7f0820f36ad611a0c97ai0",
-    "meta": {
       "name": "Ordinal Cube #15",
       "attributes": [
         {
           "trait_type": "Side 1",
-          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
         },
         {
           "trait_type": "Side 2",
-          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
         },
         {
           "trait_type": "Side 3",
-          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
         },
         {
           "trait_type": "Side 4",
-          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
         },
         {
           "trait_type": "Side 5",
-          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
         },
         {
           "trait_type": "Side 6",
-          "value": "bfbca0489f494748415e8f93ad2fb701f596f6d202a8cae7978178c35a5db5c3i0"
+          "value": "6377c547d015c0b62d3aacb0b793ab8720f39746dde390081083912080ad932bi0"
         },
         {
           "trait_type": "Version",
@@ -1019,6 +1019,246 @@
         {
           "trait_type": "Title",
           "value": "Johannes x Sylvo, September 12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "54e5584dd0ddbb663c682232b64c37dd83b6e8ffa8bf43ba155521da90cc43a4i0",
+    "meta": {
+      "name": "Ordinal Cube #28 (Cypherglyphs)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "0b3848876c41be6a2d9ff3caea6d25a4ee0da8a8298afe085f0738ebf34f6105i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "59eccf228592f7b22c1371760930c81d8cd037a30190395b7647647223d5915ai0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "9056c6f6f90d2d20c3c8578e527e88f231481a2c58dad14d0cd540e61333ebb6i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "618a84c4f129fa14968373cb38324c8361425a05c47c33a57a6d6b0ccdb81f6ci0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "d5f64fa6393d6a317af0622638b390345bfd844de024b05dcf2426b18e8bd3fdi0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "b7ccee1d7795356c0b0edcfeb989c151c5b54f3ffbb9a6a785e026d36fb13fb9i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Cypherglyphs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3c731c72517a6146ec44aa350457b3b21a97054e0fe64bd4035a362c0d069edfi0",
+    "meta": {
+      "name": "Ordinal Cube #29 (The Artifacts by Lemonhaze)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "d619a885858f9e1b3eae96426b303b489c5cfbbab92dd30351ed01645d7f063ei0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "3ed271733ce352e6da93610fb0a461326cdabba2fa20440870b37bd47be4e7f9i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "04bdddde839c52c528c68a828c3e76d65baef5137c030f1103da06081003e450i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "893d456bd3cb30ee933b0684e008284b964c2b5aaecf18168f2707a9180b2a41i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "dde6c151ecb41e9ae219063611618621e8c17828ca887111f68ab520b75f886ci0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "f790cdc32d86611c82d65d5588feb19e43b6f7c319912af0bfc509027254c28ci0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "The Artifacts by Lemonhaze"
+        }
+      ]
+    }
+  },
+  {
+    "id": "155accbd46ff3be2e1036c864f9d21319b1abda0a119025f974667423ad2c892i0",
+    "meta": {
+      "name": "Ordinal Cube #30 (Ordinal Shards)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "0aba82297d4677a6ba43e3f1e9701dc522580e04528f6b39aab385f9a310f86di0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "5bcf3b77f255f147a59233e95673cc2d07888536252184e7d1037bf66afb5bd2i0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "409be6386b97d39fc291d98c1a7549dd6576b0032d4533822aa3a0cbf62d02d1i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "6daed6ba453ee5d558b7ea55fbf9ef7bc9e727773dde07f0af12635584937765i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "93c3bc43274241958f61565a58ed043128d6f54db564508cbe9956e9096275aei0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "bc0fe603f12a688b597d2570aa68d6a832efad0bdad1e68f111adf4044df13b1i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Ordinal Shards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "231acddf4297102d8083e2168c3e9ce54aaf3371e5d64669af5c82f5de8e503bi0",
+    "meta": {
+      "name": "Ordinal Cube #31 (SATS)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "b217bb9a52ab67c3f78f374d8e3ec36752ee1e8051785d7083b440050ddd56e6i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "13effbe367e4a64d983d1d465325536338be5b92b990267ebfc291c02821ed5bi0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "16d8ba71e68d5132b7b0734cd7ed6027385a2d1ea584b107f28167f76252d5d0i0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "3c7e36472afa29e22e512df4d828579f97aef073507c25a066bb55c6939fe9dci0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "79ddbd5317259bd7e385048866e2bc88a08b0b66373d2bbc5ab6426ac2ac9de8i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "14dfad7c4b8e0d134f04a0f86a01498797f8c6f8bae0ee2d32b4cf78d4c0b65ei0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "SATS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "49029fca7936592dc33057ccb5949d8316e918ad632622d6626c84fa1f6df49ei0",
+    "meta": {
+      "name": "Ordinal Cube #32 (Ordinal Shards)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "6c0b0dbfa5cd549a19729842494227da9a10cb25b42e448ccec821901093097fi0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "1f7d0090df8b3e7f62588bc4d77412ec03cb182a3bb691a9ee7e15ccf529d9bci0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "fc8a420b290838edefdd398c66118db8b059a2f847a15ded9d310880d662da9ei0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "81e59080f280a54b1704058f1972b8049e5f83e6d7ce8ef08a18fdd7daaaec7di0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "a78f8406cd4ed7da0f4ec06e338f8d34c26c6ce80f84e5952e34ffde5d674a06i0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "40680cef63972ad8e0e0195071a0de578a4e838f3f9886f3fa9c55b911932d06i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Ordinal Shards"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d392b7c1cc34cc8f07da9503cbbc79774747d27c4b0dbb71b5a93cd169cc1483i0",
+    "meta": {
+      "name": "Ordinal Cube #33 (Ordinal Shards)",
+      "attributes": [
+        {
+          "trait_type": "Side 1",
+          "value": "a36d09dc9a43156ad04b3c639d4b5678b39dae07bbeb6d0189816080573380d4i0"
+        },
+        {
+          "trait_type": "Side 2",
+          "value": "b3b90abcb5b6ff5f7c3a7170f1adc4b2646bdb0f17928616bebbb028b9f2d2eci0"
+        },
+        {
+          "trait_type": "Side 3",
+          "value": "7c3e4097bcc880f980ead7c3f053dd1b07bb987cec1e0e85920a05fdd4490a8ai0"
+        },
+        {
+          "trait_type": "Side 4",
+          "value": "1dbfd6f31e8316ec41abeac531a7abfe85f9142feaa8be2ee1b4e391495cf2d3i0"
+        },
+        {
+          "trait_type": "Side 5",
+          "value": "829e9c11dc19ccf89eced05f8c46f7cbca3cdd2b933371750be061828321095ei0"
+        },
+        {
+          "trait_type": "Side 6",
+          "value": "03c63f6a57e7602e9cc97b2e5a553b4fce95e3094f59d18ba0192e5c5cdf0a51i0"
+        },
+        {
+          "trait_type": "Version",
+          "value": "v3"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Ordinal Shards"
         }
       ]
     }
